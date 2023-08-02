@@ -14,7 +14,7 @@
             max-width: 500px;
             margin: 0 auto;
             margin-top: 100px;
-            padding: 20px 40px;
+            padding: 20px 42px;
             border: 1px solid #ccc;
             border-radius: 5px;
         }
