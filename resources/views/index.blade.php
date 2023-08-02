@@ -386,7 +386,7 @@
 
 
                             
-                        <a href="{{ route('create') }}" class="btn btn-success">
+                        <a href="{{ route('project.create') }}" class="btn btn-success">
                                  Short Links
                             <i class="fas fa-plus"></i>
                         </a>
