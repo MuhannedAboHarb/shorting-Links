@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Short Links</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
 </head>
 
 <body>
@@ -17,7 +17,7 @@
             <div class="card-body">
                 <h1 class="btn btn-success">
 
-                    <a style="text-decoration: none; color:beige;" href="{{ route('project.create') }}">Create Link</a>
+                    <a style="text-decoration: none; color:rgb(223, 223, 211);" href="{{ route('project.create') }}">Create Link</a>
                 </h1>
                 <table class="table">
                     <thead>
