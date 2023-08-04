@@ -417,9 +417,9 @@
                                         @foreach ( $categories as $category )
                                             <tr>
                                                 <td>{{ $category->id }}</td>
+                                                <td>{{ $category->description }}</td>
                                                 <td>{{ $category->first_name }}</td>
                                                 <td>{{ $category->last_name }}</td>
-                                                <td>{{ $category->description }}</td>
                                                 <td>
                                                     <div class="btn-group">
                                                         <a href="{{ route('edit', ['id' => $category->id]) }}" class="btn btn-info">
